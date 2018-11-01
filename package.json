@@ -1,0 +1,25 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Fictional nature tour website created using advanced CSS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeztron/natours.git"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeztron/natours/issues"
+  },
+  "homepage": "https://github.com/Zeztron/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
